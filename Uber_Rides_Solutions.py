@@ -1,8 +1,6 @@
 """
 **Title: Uber Rides Analysis**
 
-### DataFrames
-
 # df_riders
 |---------|------------|-----------|------------|-----------------|
 | rider_id| rider_name | dob       | city       | registered_date |

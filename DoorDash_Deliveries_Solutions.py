@@ -1,7 +1,6 @@
 """
 Title: DoorDash Deliveries Insights
 
-
 # df_deliveries
 | order_id | delivery_date | delivery_time | customer_id | total_price |
 |----------|---------------|---------------|-------------|-------------|

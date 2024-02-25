@@ -1,12 +1,6 @@
 """
 **Title: Spotify User Insights**
 
-Instruction: Provided below are tables that resemble Spotify's user and playlist data. Solve the problem sets involving Pandas DataFrames.
-
-Hint: Time yourself. Strive to solve each question within 7 to 8 minutes. Moreover, practice explaining your solution out loud.
-
-### DataFrames
-
 # df_user_activity
 |--------|-----------|----------|--------------|-----------|
 | user_id| username  | country  | last_active  | premium  |

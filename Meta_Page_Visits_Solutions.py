@@ -1,10 +1,6 @@
 """
 Title: Meta Page Visits
 
-Instruction: Given the tables provided below, solve the problem sets involving Pandas DataFrames. 
-
-Hint: Time yourself. Aim to solve each question spending no more than 7 to 8 minutes per each question. In addition, practice explaining your solution out loud.
-
 
 +---------+------------+-------+------------+----------+
 | user_id |    date    | pages | time_spent | platform |
