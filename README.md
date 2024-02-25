@@ -1,1 +1,1 @@
-### These are just a few porblems I had trying to solve with Pandas
+### These are just a few porblems I had tried to solve with Pandas
