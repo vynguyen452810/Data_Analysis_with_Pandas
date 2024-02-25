@@ -1,0 +1,5 @@
+﻿product_id,sale_date,units_sold,sale_price,region
+P101,5/1/23,10,49.99,North
+P102,5/2/23,8,24.99,West
+P103,5/3/23,15,14.99,South
+P104,5/4/23,5,199.99,East

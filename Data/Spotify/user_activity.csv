@@ -1,0 +1,10 @@
+﻿user_id,username,country,last_active,premium
+S101,John,US,5/1/23,TRUE
+S102,Jane,UK,5/4/23,FALSE
+S103,Emily,IN,5/3/23,TRUE
+S104,Mike,CA,5/2/23,FALSE
+S105,Sara,AU,5/5/23,TRUE
+S106,Luke,NZ,5/6/23,FALSE
+S107,Ella,US,5/5/23,TRUE
+S108,Max,UK,5/4/23,FALSE
+,,,,
